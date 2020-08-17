@@ -25,8 +25,8 @@
 
 now you can do:-
 
-    $`body`.backgroundColor = 'beige';
+    $`body`.style.backgroundColor = 'beige';
 
-    $`0: article p.first`.color = "#484848";
+    $`0: article p.story`.style.color = "#484848";
 
     
